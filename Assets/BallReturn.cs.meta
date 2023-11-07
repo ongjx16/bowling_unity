@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a27618b179f654069a57965c2a023eeb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bowlingBallPrefab: {fileID: 1200733987533290246, guid: b86f222f50d87457cbc9a443b9358aef, type: 3}
+  - spawnPoint: {fileID: -8679921383154817045, guid: e4a3415e3e03c4dbe94a95e4558317e8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
